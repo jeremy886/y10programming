@@ -1,7 +1,8 @@
 Useful commands
 
 .. code-block:: bash
-
+    :linenos:
+    
     pyenv install 3.6.0
     pyenv install 3.5.2
     pyenv versions
